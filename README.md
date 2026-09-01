@@ -66,7 +66,6 @@ Row 5 — Heatmap: skill gap index by industry and job role
 
 ## Dataset
 
-- **Source:** [Kaggle — algozee/future-of-work-in-the-age-of-ai-20202026](https://www.kaggle.com/datasets/algozee/future-of-work-in-the-age-of-ai-20202026)
 - **Size:** 15,000 rows · 23 columns
 - **Coverage:** 10 job roles · 8 industries · 9 countries · 2020–2026
 
