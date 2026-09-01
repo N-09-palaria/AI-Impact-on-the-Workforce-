@@ -20,8 +20,8 @@ Built as a complete analytics pipeline: raw CSV → SQL analysis → Tableau das
 
 ## Dashboard
 
-> 🔗 [View on Tableau Public →]()
-> *(Replace with your live link after publishing)*
+> 🔗 [View on Tableau Public →](https://public.tableau.com/app/profile/nikita.palaria/viz/aiworkfoce/aiimpactonworkforce)
+
 
 ![Dashboard Preview](https://github.com/N-09-palaria/AI-Impact-on-the-Workforce-/blob/41fecc57f4956c2ccf580b1be65a16fec8369952/ai%20impact%20on%20workforce%20.png)
 
